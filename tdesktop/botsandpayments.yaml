@@ -1,0 +1,9 @@
+lng_payments_receipt_label : Receipt
+lng_bot_sure_share_game_group : Akazannyo kaweemu <<{group}>>?
+lng_bot_sure_share_game : Akazannyo kaweemu {user}
+lng_action_game_you_scored_no_game : [Wafunye {count} (one), Wafunye {count} (other)]
+lng_action_game_score_no_game : [{from} yafunye {count} (one), {from} yafunye {count} (other)]
+lng_playing_game : azannya akazannyo
+lng_error_cant_add_member : Tosobola ku yingiza bot eno mu kibiina kino
+lng_status_bot_not_reads_all : tasobola kulaba ebigambo
+lng_status_bot_reads_all : asobola okulaba ebigambo
